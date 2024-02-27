@@ -12,5 +12,5 @@ On every page refresh player1 and player2 get some random number on dise from 1 
 
 ## Demo
 
-https://aditya17raj.github.io/Diece_Project/
+https://aditya17raj.github.io/Dice_Project/
 
